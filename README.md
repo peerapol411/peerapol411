@@ -68,7 +68,7 @@
 
 <div>
   <h3>Education:</h3>
-  <li>Bachelor's degree: Bachelor of Science (Computer Science) at Kasetsart University Sriracha Campus</li>
+  <li>Bachelor's degree: Bachelor of Science (Computer Science) at Kasetsart University Sri Racha Campus</li>
 </div>
 <!---
 
